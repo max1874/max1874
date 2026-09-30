@@ -17,6 +17,7 @@
 ### macOS apps
 
 - **[Lumo](https://github.com/max1874/lumo-releases)** — Translate what you just selected, anywhere on macOS.
+- **[Kay](https://github.com/max1874/kay)** — Hold fn and speak; let go and the text is at your cursor. Streaming Doubao ASR on your own key.
 - **[TypeSwitch](https://github.com/max1874/type-switch)** — Type the words you have, get the language you meant.
 - **[Rotap](https://github.com/max1874/Rotap)** — Record what your Mac is playing, optionally mixed with your mic. No virtual driver.
 - **[OpenKeyboardCleanTool](https://github.com/max1874/open-keyboard-clean-tool)** — Lock the keyboard while you clean your MacBook. Nothing else.
