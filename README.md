@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Max</h1>
   <p><strong>Full-stack engineer. I build small native tools, and run my work on agents.</strong></p>
-  <p><a href="README.zh-Hans.md">简体中文</a></p>
 </div>
 
 ### Agents & skills
