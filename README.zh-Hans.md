@@ -10,6 +10,11 @@
 - **[open-computer-use](https://github.com/max1874/open-computer-use)** — macOS 上的 computer-use agent，动作空间带索引，不靠截图，也不靠坐标。
 - **[demo-agent](https://github.com/max1874/demo-agent)** — 用 TypeScript 从零写的 agent，不用框架。
 
+### iOS 应用 · App Store
+
+- **[Swipe Photos - 滑动整理相册](https://apps.apple.com/cn/app/id6791112005)** — 一张一张滑，该留的归进相簿，该删的删掉。
+- **[小豆记账](https://apps.apple.com/cn/app/id6762084545)** — 截图识别账单记账：支付截图直接变成一笔流水，快捷指令一键记账。
+
 ### macOS 应用
 
 - **[Lumo](https://github.com/max1874/lumo-releases)** — 在 macOS 任何地方选中文字即可翻译。

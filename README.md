@@ -10,6 +10,11 @@
 - **[open-computer-use](https://github.com/max1874/open-computer-use)** — A macOS computer-use agent with an indexed action space. No screenshots, no coordinates.
 - **[demo-agent](https://github.com/max1874/demo-agent)** — An agent written from scratch in TypeScript. No framework.
 
+### iOS apps · App Store
+
+- **[Swipe: Organize Photos](https://apps.apple.com/us/app/swipe-organize-photos/id6791112005)** — Swipe through your photos and sort them into albums, one at a time.
+- **[小豆记账](https://apps.apple.com/us/app/%E5%B0%8F%E8%B1%86%E8%AE%B0%E8%B4%A6-%E6%88%AA%E5%9B%BE%E8%AF%86%E5%88%AB%E8%B4%A6%E5%8D%95%E8%AE%B0%E8%B4%A6%E6%9C%AC/id6762084545)** — Bookkeeping from screenshots: a payment screenshot becomes a ledger entry. One-tap logging from Shortcuts.
+
 ### macOS apps
 
 - **[Lumo](https://github.com/max1874/lumo-releases)** — Translate what you just selected, anywhere on macOS.
