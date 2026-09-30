@@ -12,7 +12,7 @@
 ### iOS apps · App Store
 
 - **[Swipe](https://apps.apple.com/us/app/swipe-organize-photos/id6791112005)** — Swipe through your photos and sort them into albums, one at a time.
-- **[小豆记账](https://apps.apple.com/us/app/%E5%B0%8F%E8%B1%86%E8%AE%B0%E8%B4%A6-%E6%88%AA%E5%9B%BE%E8%AF%86%E5%88%AB%E8%B4%A6%E5%8D%95%E8%AE%B0%E8%B4%A6%E6%9C%AC/id6762084545)** — Bookkeeping from screenshots: a payment screenshot becomes a ledger entry. One-tap logging from Shortcuts.
+- **[Avocado](https://apps.apple.com/us/app/%E5%B0%8F%E8%B1%86%E8%AE%B0%E8%B4%A6-%E6%88%AA%E5%9B%BE%E8%AF%86%E5%88%AB%E8%B4%A6%E5%8D%95%E8%AE%B0%E8%B4%A6%E6%9C%AC/id6762084545)** — Bookkeeping from screenshots: a payment screenshot becomes a ledger entry. One-tap logging from Shortcuts. Listed as 小豆记账.
 
 ### macOS apps
 
