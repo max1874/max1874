@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Max</h1>
-  <p><strong>Full-stack engineer by day. After hours, I build small iPhone and Mac apps with AI.</strong></p>
+  <p><strong>Full-stack engineer. I build small iPhone and Mac apps with AI.</strong></p>
   <p><a href="https://max1874.com/en/">max1874.com</a> · <a href="mailto:hi@max1874.com">hi@max1874.com</a></p>
 </div>
 
