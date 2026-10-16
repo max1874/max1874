@@ -25,7 +25,7 @@
 
 ### Browser extensions
 
-- **[Simple Translate](https://github.com/max1874/simple-translate)** — A Chrome extension that translates the page you are reading with your own LLM key, each translation under its paragraph.
+- **[Plain Translate](https://github.com/max1874/simple-translate)** — A Chrome extension that translates the page you are reading with your own LLM key, each translation under its paragraph.
 
 ### Self-hosted
 
