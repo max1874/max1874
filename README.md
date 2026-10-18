@@ -30,7 +30,6 @@
 
 - **[Ferry](https://github.com/max1874/ferry)** — Your devices, one timeline, on your own network. Clipboard and file ferry in a single Go server.
 - **[funnysurge](https://github.com/max1874/funnysurge)** — Personal rules, deliberate routes. Surge and Clash / Mihomo rule sets.
-- **[Haier Smart Home](https://github.com/max1874/haier-smart-home)** — An independent Home Assistant integration for mainland China Haier laundry appliances: status, completion alerts and washer energy/water statistics.
 
 
 <sub>Generated from <code>apple-developer/site</code>, the same data as <a href="https://max1874.com/en/">max1874.com</a>.</sub>
