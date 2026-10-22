@@ -31,5 +31,10 @@
 - **[Ferry](https://github.com/max1874/ferry)** — Your devices, one timeline, on your own network. Clipboard and file ferry in a single Go server.
 - **[funnysurge](https://github.com/max1874/funnysurge)** — Personal rules, deliberate routes. Surge and Clash / Mihomo rule sets.
 
+### Notes
+
+- [小豆记账：截图就是记账，和上架路上的五次卡住](https://max1874.com/notes/xiaodou-ledger/) — 2026-10-22
+- [Flipfile：整理相册，不是清理空间](https://max1874.com/notes/flipfile/) — 2026-10-22
+- [让 agent 的「做完了」可信](https://max1874.com/notes/agent-done-you-can-trust/) — 2026-10-22
 
 <sub>Generated from <code>apple-developer/site</code>, the same data as <a href="https://max1874.com/en/">max1874.com</a>.</sub>
