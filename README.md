@@ -33,8 +33,8 @@
 
 ### Notes
 
-- [小豆记账：截图就是记账，和上架路上的五次卡住](https://max1874.com/notes/xiaodou-ledger/) — 2026-10-22
-- [Flipfile：整理相册，不是清理空间](https://max1874.com/notes/flipfile/) — 2026-10-22
-- [让 agent 的「做完了」可信](https://max1874.com/notes/agent-done-you-can-trust/) — 2026-10-22
+- [Xiaodou Ledger: a screenshot is the entry, and the five times it got stuck on the way to the App Store](https://max1874.com/en/notes/xiaodou-ledger/) — 2026-10-22
+- [Flipfile: organizing photos, not freeing up space](https://max1874.com/en/notes/flipfile/) — 2026-10-22
+- [Making an agent's "done" something you can trust](https://max1874.com/en/notes/agent-done-you-can-trust/) — 2026-10-22
 
 <sub>Generated from <code>apple-developer/site</code>, the same data as <a href="https://max1874.com/en/">max1874.com</a>.</sub>
