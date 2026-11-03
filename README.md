@@ -12,7 +12,7 @@
 
 ### iOS apps · App Store
 
-- **[Avocado](https://apps.apple.com/us/app/%E5%B0%8F%E8%B1%86%E8%AE%B0%E8%B4%A6-%E6%88%AA%E5%9B%BE%E8%AF%86%E5%88%AB%E8%B4%A6%E5%8D%95%E8%AE%B0%E8%B4%A6%E6%9C%AC/id6762084545)** — Bookkeeping from screenshots: a payment screenshot becomes a ledger entry. One-tap logging from Shortcuts. Listed as 小豆记账.
+- **[Snapdou](https://apps.apple.com/app/id6762084545)** — Bookkeeping from screenshots: a payment screenshot becomes a ledger entry. One-tap logging from Shortcuts. In Chinese it is 小豆记账.
 - **[Flipfile](https://apps.apple.com/us/app/flipfile-organize-photos/id6791112005)** — Swipe through your photos and sort them into albums, one at a time.
 
 ### macOS apps
@@ -33,7 +33,7 @@
 
 ### Notes
 
-- [Xiaodou Ledger: a screenshot is the entry, and the five times it got stuck on the way to the App Store](https://max1874.com/en/notes/xiaodou-ledger/) — 2026-10-22
+- [Snapdou: a screenshot is the entry, and the five times it got stuck on the way to the App Store](https://max1874.com/en/notes/xiaodou-ledger/) — 2026-10-22
 - [Flipfile: organizing photos, not freeing up space](https://max1874.com/en/notes/flipfile/) — 2026-10-22
 - [Making an agent's "done" something you can trust](https://max1874.com/en/notes/agent-done-you-can-trust/) — 2026-10-22
 
