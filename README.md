@@ -33,7 +33,7 @@
 
 ### Notes
 
-- [Snapdou: a screenshot is the entry, and the five times it got stuck on the way to the App Store](https://max1874.com/en/notes/xiaodou-ledger/) — 2026-10-22
+- [Snapdou: a screenshot is the entry, and the five times it got stuck on the way to the App Store](https://max1874.com/en/notes/snapdou/) — 2026-10-22
 - [Flipfile: organizing photos, not freeing up space](https://max1874.com/en/notes/flipfile/) — 2026-10-22
 - [Making an agent's "done" something you can trust](https://max1874.com/en/notes/agent-done-you-can-trust/) — 2026-10-22
 
