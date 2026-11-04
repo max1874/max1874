@@ -12,7 +12,7 @@
 
 ### iOS apps · App Store
 
-- **[Snapdou](https://apps.apple.com/app/id6762084545)** — Bookkeeping from screenshots: a payment screenshot becomes a ledger entry. One-tap logging from Shortcuts. In Chinese it is 小豆记账.
+- **[Snapdou](https://apps.apple.com/app/id6762084545)** — Bookkeeping from screenshots: a payment screenshot becomes a ledger entry. One-tap logging from Shortcuts.
 - **[Flipfile](https://apps.apple.com/us/app/flipfile-organize-photos/id6791112005)** — Swipe through your photos and sort them into albums, one at a time.
 
 ### macOS apps
