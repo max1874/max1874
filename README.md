@@ -7,6 +7,7 @@
 ### Agents & skills
 
 - **[Skills](https://github.com/max1874/skills)** — Agent skills hardened on real work. `deep-read` makes an agent actually read a long source to the end, and prove it.
+- **[open-agent-keys](https://github.com/max1874/open-agent-keys)** — Give AI agents API keys from 1Password or Bitwarden: the agent sees names and notes, and the value goes straight into the environment of the one command that needs it, never into the transcript.
 - **[Open Computer Use](https://github.com/max1874/open-computer-use)** — A macOS computer-use agent that picks actions from an indexed accessibility-tree action space instead of clicking coordinates; screenshots are only a fallback for sparse windows.
 - **[Demo Agent](https://github.com/max1874/demo-agent)** — An agent written from scratch in TypeScript. No framework.
 
